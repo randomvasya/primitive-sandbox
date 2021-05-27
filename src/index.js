@@ -12,5 +12,5 @@ try {
 try {
 	runExternalModule();
 } catch {
-	console.log("timers are not available")
+	console.log("external modules are not available")
 }
